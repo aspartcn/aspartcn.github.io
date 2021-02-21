@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hi,aspartcn</title>
+  <title>Hi,Asbt.</title>
   
   
-  <link href="https://aspart.cn/atom.xml" rel="self"/>
+  <link href="https://blog.iasbt.com/atom.xml" rel="self"/>
   
-  <link href="https://aspart.cn/"/>
+  <link href="https://blog.iasbt.com/"/>
   <updated>2021-02-20T17:44:40.202Z</updated>
-  <id>https://aspart.cn/</id>
+  <id>https://blog.iasbt.com/</id>
   
   <author>
-    <name>aspartcn</name>
+    <name>阿斯巴甜.</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello,World!</title>
-    <link href="https://aspart.cn/bv1/"/>
-    <id>https://aspart.cn/bv1/</id>
+    <link href="https://blog.iasbt.com/bv1/"/>
+    <id>https://blog.iasbt.com/bv1/</id>
     <published>2021-02-20T17:50:00.000Z</published>
     <updated>2021-02-20T17:44:40.202Z</updated>
     
@@ -34,7 +34,7 @@
     
     
     
-    <category term="日记本" scheme="https://aspart.cn/categories/%E6%97%A5%E8%AE%B0%E6%9C%AC/"/>
+    <category term="日记本" scheme="https://blog.iasbt.com/categories/%E6%97%A5%E8%AE%B0%E6%9C%AC/"/>
     
     
   </entry>

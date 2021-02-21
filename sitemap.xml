@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://aspart.cn/bv1/</loc>
+    <loc>https://blog.iasbt.com/bv1/</loc>
     
     <lastmod>2021-02-20</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aspart.cn/404.html</loc>
+    <loc>https://blog.iasbt.com/404.html</loc>
     
     <lastmod>2021-02-20</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aspart.cn/manifest.json</loc>
+    <loc>https://blog.iasbt.com/manifest.json</loc>
     
     <lastmod>2021-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aspart.cn/categories/index.html</loc>
+    <loc>https://blog.iasbt.com/archives/index.html</loc>
     
     <lastmod>2021-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aspart.cn/archives/index.html</loc>
+    <loc>https://blog.iasbt.com/categories/index.html</loc>
     
     <lastmod>2021-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aspart.cn/donate/index.html</loc>
+    <loc>https://blog.iasbt.com/friends/index.html</loc>
     
     <lastmod>2021-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aspart.cn/message/index.html</loc>
+    <loc>https://blog.iasbt.com/donate/index.html</loc>
     
     <lastmod>2021-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aspart.cn/friends/index.html</loc>
+    <loc>https://blog.iasbt.com/message/index.html</loc>
     
     <lastmod>2021-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aspart.cn/about/index.html</loc>
+    <loc>https://blog.iasbt.com/about/index.html</loc>
     
     <lastmod>2021-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aspart.cn/gk/index.html</loc>
+    <loc>https://blog.iasbt.com/gk/index.html</loc>
     
     <lastmod>2021-02-18</lastmod>
     
@@ -73,7 +73,7 @@
   
 
   <url>
-    <loc>https://aspart.cn/</loc>
+    <loc>https://blog.iasbt.com/</loc>
     <lastmod>2021-02-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -83,7 +83,7 @@
 
   
   <url>
-    <loc>https://aspart.cn/categories/%E6%97%A5%E8%AE%B0%E6%9C%AC/</loc>
+    <loc>https://blog.iasbt.com/categories/%E6%97%A5%E8%AE%B0%E6%9C%AC/</loc>
     <lastmod>2021-02-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
