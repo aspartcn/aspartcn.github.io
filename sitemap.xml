@@ -37,6 +37,13 @@
   </url>
   
   <url>
+    <loc>https://blog.iasbt.com/categories/index.html</loc>
+    
+    <lastmod>2021-02-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.iasbt.com/archives/index.html</loc>
     
     <lastmod>2021-02-18</lastmod>
@@ -51,21 +58,14 @@
   </url>
   
   <url>
-    <loc>https://blog.iasbt.com/friends/index.html</loc>
-    
-    <lastmod>2021-02-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.iasbt.com/categories/index.html</loc>
-    
-    <lastmod>2021-02-18</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.iasbt.com/message/index.html</loc>
+    
+    <lastmod>2021-02-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.iasbt.com/friends/index.html</loc>
     
     <lastmod>2021-02-18</lastmod>
     
